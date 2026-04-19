@@ -154,9 +154,9 @@
         </section>
         <section>
             <h2>Скриншоты</h2>
-            <img src="" alt="Скриншот 1: Вид на Лос-Сантос с высоты" width="300">
-            <img src=""alt="Скриншот 2: Франклин за рулём спортивного автомобиля" width="300">
-            <img src="" alt="Скриншот 3: Тревор в округе Блэйн" width="300">
+            <img src="гта 5 1.jpg" alt="Скриншот 1: Вид на Лос-Сантос с высоты" width="300">
+            <img src="гта 5 2.webp"alt="Скриншот 2: Франклин за рулём спортивного автомобиля" width="300">
+            <img src="гта 5 3.jpg" alt="Скриншот 3: Тревор в округе Блэйн" width="300">
         </section>
         <section>
             <li><a href="https://ru.wikipedia.org/wiki/Grand_Theft_Auto_V">Википедия: GTA V</a></li>
